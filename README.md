@@ -13,7 +13,8 @@ Fitur :
 |  |  |
 |--|--|
 | **Fitur** | **Detail** |
-| ini fitur | ini detail |
+| -> Konversi Suhu | Pengkonversian suhu dengan satuan suhu Celcius, Kelvin dan Fahrenheit |
+| -> Menghitung teks | Perhitungan jumlah kata, karakter, dan baris dalam teks yang dinputkan. |
 
 ### SCREENSHOT PROGRAM
 ![Aplikasi Gue](https://github.com/vierynugroho/UAS-praktikum_SistemOperasi/blob/main/BG-Barca.jpg?raw=true)
